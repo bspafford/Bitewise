@@ -1,1 +1,2 @@
 This is a food tracking app that I have developed using Swift, for the app to work on iPhones. This app allows for the user to either search or scan a barcode. The search feature uses the FoodData Central API. The user can then see the food items nutritional facts. Then it can be added to a specified meal. The total will be show on the home and stats page
+![IMG_9418](https://github.com/user-attachments/assets/75595648-0ba8-4416-befe-3db26c7c1b0b)
