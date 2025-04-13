@@ -7,3 +7,5 @@ This is a food tracking app that I have developed using Swift, for the app to wo
 ![IMG_9421](https://github.com/user-attachments/assets/72bf3e03-d617-41b6-a139-c3b382b62e25 | width=100)
 ![IMG_9420](https://github.com/user-attachments/assets/44242bd5-aee7-4625-aca6-2cdb196e6d05 | width=100)
 ![IMG_9419](https://github.com/user-attachments/assets/fad459fe-69e2-42fe-98d6-76fef1f16dea | width=100)
+
+<img src="https://github.com/user-attachments/assets/75595648-0ba8-4416-befe-3db26c7c1b0b" width="48">
